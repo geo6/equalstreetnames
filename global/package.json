@@ -11,7 +11,7 @@
   "homepage": "https://equalstreetnames.be/",
   "devDependencies": {
     "@parcel/transformer-sass": "2.0.0-beta.2",
-    "@turf/turf": "^5.1.6",
+    "@turf/turf": "^6.4.0",
     "@types/ol": "^6.5.2",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
